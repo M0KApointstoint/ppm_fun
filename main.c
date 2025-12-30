@@ -1,4 +1,4 @@
-// MOCANU Cristian-Lucian, 314CB
+// M0KApointstoint
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
